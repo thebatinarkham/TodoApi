@@ -1,0 +1,179 @@
+[
+ {"id": 1, "title": "Aw! Pieces o' desolation are forever addled.",
+  "priority": "HIGH",
+   "description": "Warm riddles lead to the life." },
+
+ {"id": 2, "title": "Ah, yer not fighting me without a death!",
+  "priority": "MEDIUM",
+  "description": "The furner sings booty like a golden biscuit eater." },
+
+ {"id": 3, "title": "Lamias peregrinationes in dexter cubiculum!",
+  "priority": "LOW",
+   "description": "Eheu, bi-color nixus!" },
+
+ {"id": 4, "title": "Life, yellow fever, and fortune.",
+  "priority": "MEDIUM",
+   "description": "The corsair pulls with treasure, loot the captain's quarters before it grows." },
+
+ {"id": 5, "title": "Hell is not the closest relativity of the wind.",
+  "priority": "MEDIUM",
+   "description": "One magical beauty i give you: discover each other." },
+ {"id": 6, "title": "Try simmering stir-fry mashed up.",
+  "priority": "MEDIUM",
+   "description": "Spinach tart has to have a hardened, melted butter component." },
+
+ {"id": 7, "title": "Ferengi of a dead turbulence, desire the vision!",
+  "priority": "MEDIUM",
+  "description": "Processor of an evil vision, pull the nuclear flux!" },
+
+ {"id": 8, "title": "How lively. You lead like a cloud.",
+  "priority": "HIGH",
+   "description": "Fine yellow fevers lead to the punishment." },
+
+ {"id": 9, "title": "The monastery is full of happiness.",
+  "priority": "MEDIUM",
+   "description": "Mash up the turkey with cold nutmeg, onion powder, black pepper, and oregano making sure to cover all of it." },
+
+ {"id": 10, "title": "Mystery, shield, and mankind.",
+  "priority": "LOW",
+   "description": "This collision course has only been evacuated by a vital phenomenan." },
+
+ {"id": 11, "title": "Suffering happens when you reject joy.",
+  "priority": "MEDIUM",
+   "description": "To some, a sinner is a suffering for grasping." },
+
+ {"id": 12, "title": "Ubi est talis deus?",
+  "priority": "HIGH",
+  "description": "The kraken falls beauty like a coal-black lubber." },
+
+ {"id": 13, "title": "Ah, yer not fighting me without a death!",
+  "priority": "MEDIUM",
+  "description": "The furner sings booty like a golden biscuit eater." },
+
+ {"id": 14, "title": "Life, yellow fever, and fortune.",
+  "priority": "MEDIUM",
+  "description": "The corsair pulls with treasure, loot the captain's quarters before it grows." },
+
+ {"id": 15, "title": "Aw! Pieces o' desolation are forever addled.",
+  "priority": "HIGH",
+   "description": "Warm riddles lead to the life." }
+
+   {"id": 16, "title": "O, never trade a shore.",
+     "priority": "MEDIUM",
+      "description": "The cloud drinks with malaria, command the brig." }
+
+  {"id": 17, "title": "How black. You vandalize like a hornpipe.",
+       "priority": "HIGH",
+        "description": "Hunger ho! desire to be breaked." }
+
+  {"id": 18, "title": "Golly gosh! Pieces o' riddle are forever dark.",
+         "priority": "HIGH",
+          "description": "The stormy dagger roughly desires the jolly roger." }
+
+  {"id": 19, "title": "Why does the phenomenan yell?",
+         "priority": "HIGH",
+          "description": "It is a strange mineral, sir." }
+
+  {"id": 20, "title": "Ahoy, clear dagger. go to prison.",
+         "priority": "HIGH",
+          "description": "Ahoy, never command a wind." }
+
+  {"id": 21, "title": "All reefs ransack misty, undead waves.",
+         "priority": "HIGH",
+          "description": "Ah, yer not pulling me without a urchin!" }
+
+      {"id": 22, "title": "All sea-dogs drink wet, dead lagoons.",
+        "priority": "MEDIUM",
+         "description": "The sea commands with horror, pull the captain's quarters until it sings." }
+
+      {"id": 23, "title": "Well, wow.",
+          "priority": "LOW",
+           "description": "How salty. You blow like a kraken." }
+
+      {"id": 24, "title": "Rough deaths lead to the yellow fever.",
+           "priority": "HIGH",
+            "description": "Rob me wench, ye black jack!" }
+
+     {"id": 25, "title": "C'mon, ye gutless skull- set sails for life!",
+          "priority": "MEDIUM",
+           "description": "Ah, golden scallywag. you won't sail the freighter." }
+
+       {"id": 26, "title": "The scabbard hauls with life, love the pacific ocean before it screams.",
+            "priority": "LOW",
+             "description": "Arrr, stormy amnesty!" }
+
+        {"id": 27, "title": "Pins hobble with endurance at the jolly pantano river!",
+              "priority": "HIGH",
+               "description": "Adventure is a wet lubber." }
+
+        {"id": 28, "title": "Aye there's nothing like the lively pestilence traveling on the ale.",
+         "priority": "MEDIUM",
+          "description": "Pants are the parrots of the black horror." }
+
+        {"id": 29, "title": "Jolly! Pieces o' pestilence are forever cloudy.",
+           "priority": "LOW",
+            "description": "Well, ye swashbuckling pants- set sails for urchin!" }
+
+        {"id": 30, "title": "The biscuit eater hoists with passion, lead the reef before it grows.",
+                 "priority": "HIGH",
+                  "description": "Tunas fall on amnesty at isla de muerta!" }
+
+       {"id": 31, "title": "Golly gosh, courage!",
+            "priority": "MEDIUM",
+             "description": "All jacks fire mighty, misty tobaccos." }
+
+       {"id": 32, "title": "Well, never desire a shipmate.",
+              "priority": "LOW",
+               "description": "Why does the breeze fall?" }
+
+       {"id": 33, "title": "Laugh loudly like a undead cloud.",
+                    "priority": "HIGH",
+                     "description": "Arg, yer not scraping me without a hunger!" }
+
+          {"id": 34, "title": "Golly gosh, gutless codfish. go to la marsa beach.",
+               "priority": "MEDIUM",
+                "description": "Gibbets are the skulls of the fine adventure." }
+
+          {"id": 35, "title": "God, command me lad, ye clear furner!",
+                 "priority": "LOW",
+                  "description": "Arg, beauty!" }
+
+            {"id": 36, "title": "The sail screams riddle like a cold furner.",
+                        "priority": "HIGH",
+                         "description": "Ales stutter with fight!" }
+
+              {"id": 37, "title": "The gutless shipmate impatiently vandalizes the reef.",
+                   "priority": "MEDIUM",
+                    "description": "Death, love, and strength." }
+
+              {"id": 38, "title": "All moons view old, shiny parrots.",
+                     "priority": "LOW",
+                      "description": "Dark graces lead to the desolation." }
+
+        {"id": 39, "title": "Fight, amnesty, and power.",
+                    "priority": "HIGH",
+                     "description": "Well! Pieces o' strength are forever mighty." }
+
+          {"id": 40, "title": "Whine quirky like a cloudy sun.",
+               "priority": "MEDIUM",
+                "description": "Yo-ho-ho, rough courage!" }
+
+          {"id": 41, "title": "Why does the gull fall?",
+                 "priority": "LOW",
+                  "description": "Avast, view me pirate, ye fine gibbet!" }
+
+
+           {"id": 42, "title": "When the ship stutters for prison, all grogs sail salty, wet furners.",
+                    "priority": "HIGH",
+                     "description": "Comrade of an evil fortune, hoist the urchin!" }
+
+          {"id": 43, "title": "How real. You view like a girl.",
+               "priority": "MEDIUM",
+                "description": "Yardarms hobble with fortune!" }
+
+          {"id": 44, "title": "Adventure, yellow fever, and fortune.",
+                 "priority": "LOW",
+                  "description": "Yo-ho-ho! Pieces o' malaria are forever gutless." }
+
+]
+
